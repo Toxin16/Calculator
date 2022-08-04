@@ -1,5 +1,5 @@
 # Calculator
-*html source code*
+## HTML source code
 ```html
 <!DOCTYPE html>
 
@@ -50,7 +50,7 @@
 
 </body>
 ```
-
+## CSS source code
 ```css
 .container {
     border: 1px solid #cccccc;
@@ -129,7 +129,7 @@
     margin: auto auto 10px;
 }
 ```
-
+## JS source code
 ```js
 function display(val){
     document.getElementById('result').value += val
