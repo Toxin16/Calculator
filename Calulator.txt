@@ -1,0 +1,18 @@
+참고사이트
+조코딩
+틀 : https://www.simplilearn.com/tutorials/javascript-tutorial/calculator-in-javascript
+히스토리 : https://travelerfootprint.tistory.com/141
+에러메세지 : https://longflash.tistory.com/58
+ - 예외처리 : https://kanhi.tistory.com/6
+마크다운 설명 : https://gist.github.com/ihoneymon/652be052a0727ad59601
+마크다운 에디터
+
+변경할내용
+엔터키 입력추가
+히스토리
+에러메세지
+
+변경내용
+css - operator hover 추가
+js - math error 추가
+1~5 다시확인

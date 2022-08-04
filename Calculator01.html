@@ -19,9 +19,11 @@
     <br>
     <table>
         <tr>
-            <td colspan="3"><input type='text' id='result' class ='screen' style="text-align: right;"></td>
+            <td colspan="3"><input type='text' id='result' class ='screen' 
+                style="text-align: right;"></td>
             <td>
                 <input type='button' value = 'C' onclick="clearScreen()" class="clear"/>
+                <input type='button' value = 'H' onclick="clearScreen()" class="clear"/>
             </td>
         </tr>
     </table>
@@ -44,5 +46,6 @@
     <input type="button" value="+" class="operator" onClick="display('+')"></input>
 </div> 
 </div>
+<div id = "calc-history"></div>
 
 </body>
