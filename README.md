@@ -1,5 +1,5 @@
 # Calculator
-## Reference : https://www.simplilearn.com/tutorials/javascript-tutorial/calculator-in-javascript
+###### Reference : https://www.simplilearn.com/tutorials/javascript-tutorial/calculator-in-javascript
 ![2022-08-07 (2)](https://user-images.githubusercontent.com/109052012/183281479-860b6f14-1762-4185-8e1b-29bc0c8a287e.png)
 
 **Add Element:**
