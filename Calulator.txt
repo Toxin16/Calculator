@@ -18,3 +18,24 @@
 css - operator hover 추가
 js - math error 추가
 del //한칸 지우기
+
+
+실패
+var numberClicked = false; 
+    function add (char) {
+        if(numberClicked == false) { 
+            if(isNaN(char) == true) { 
+             
+            } else { 
+                document.getElementById('display').value += char; 
+            }
+        } else { 
+            document.getElementById('display').value += char; 
+        }
+
+        if(isNaN(char) == true) { 
+            numberClicked = false; 
+        } else {
+            numberClicked = true; 
+        }
+    }
