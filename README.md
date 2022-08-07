@@ -33,7 +33,7 @@
                 style="text-align: right;"></td>
             <td>
                 <input type='button' value = 'C' onclick="clearScreen()" class="clear"/>
-                <input type='button' value = 'del' onclick="del()" class="clear"/>
+  **              <input type='button' value = 'del' onclick="del()" class="clear"/> **
             </td>
         </tr>
     </table>
