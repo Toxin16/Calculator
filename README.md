@@ -167,8 +167,7 @@ function del() {
 }
 ```
 
-### Failed
-Operator continuous input error message
+### Failed - Operator continuous input error message
 ###### Reference : https://blog.cordelia273.space/32
 ```js
 let numberClicked = false;
