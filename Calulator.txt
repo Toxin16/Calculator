@@ -4,6 +4,7 @@
 히스토리 : https://travelerfootprint.tistory.com/141
 에러메세지 : https://longflash.tistory.com/58
  - 예외처리 : https://kanhi.tistory.com/6
+ https://blog.cordelia273.space/32
 마크다운 설명 : https://gist.github.com/ihoneymon/652be052a0727ad59601
 마크다운 에디터
 
