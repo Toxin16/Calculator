@@ -160,4 +160,33 @@ function solve(){ // 계산함수, '='버튼 누르면 호출
 function clearScreen(){ //C버튼 누르면 호출, 화면 초기화
     document.getElementById('result').value = ''
 }
+
+function del() {
+    let result = document.getElementById('result');
+    result.value = result.value.substring(0, result.value.length - 1);
+}
+```
+
+### Failed
+Operator continuous input error message
+###### Reference : https://blog.cordelia273.space/32
+```js
+let numberClicked = false;
+function display(val){ //텍스트상자에 반환
+    if(numberClicked == false){ //숫자가 아닌것(연산자)을 입력했는데
+        if(isNaN(val) == true) {    //입력받은 것이 또 연산자라면(숫자가 아니면)
+            alert("SyntaxError")    //에러메세지 출력
+        } else {    //연산자가 아니라면
+            document.getElementById('result').value += val; //식 뒤에 값을 추가
+        }
+    } else {    //연산자가 아닌 숫자를 입력했다면
+        document.getElementById('result').value += val; //식 뒤에 값을 추가
+    }
+
+    if(isNan(val) == true) {
+        numberClicked = false;
+    } else {
+    numberClicked = true;
+    }
+}
 ```
