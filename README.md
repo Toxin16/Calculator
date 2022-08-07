@@ -3,7 +3,7 @@
 ###### Reference : https://www.simplilearn.com/tutorials/javascript-tutorial/calculator-in-javascript
 
 ## Add Element:
-- math error (Range)
+- math error massage (Range)
 - del button
 
 ## HTML source code
