@@ -1,4 +1,6 @@
 # Calculator
+![2022-08-07](https://user-images.githubusercontent.com/109052012/183281466-d653919b-cd9a-43b7-b281-f8b8328c0c01.png)
+
 ## HTML source code
 ```html
 <!DOCTYPE html>
